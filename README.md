@@ -13,7 +13,10 @@ Analysis (in progress)
 * Activity timeline by year
 
 Tools
-* Python Pandas Google Sheets Claude AI GitHub Copilot Excel
-* 
+* Python
+* Pandas
+* Google Sheets
+* Claude AI
+   
 Data Source
 * Wikipedia
