@@ -1,2 +1,19 @@
-# Serial_killers
-Exploratory data analysis of serial killers worldwide. Includes birth date research, zodiac sign distribution, geographic breakdown by country, and activity timeline analysis. Data sourced from Wikipedia, processed in Python and Google Sheets.
+# Serial_killers — Data Analysis
+
+* Loaded 4 datasets — checked shape of each file before merging
+* Merged datasets into a single unified DataFrame
+* Feature engineering — used GitHub Copilot to extract birth date components into separate columns: birth_date, birth_day, birth_month, birth_year
+* Birth date enrichment — initial automated parsing covered partial data; missing dates were researched and verified with Claude AI, then exported to Excel
+* Manual verification — imported into Google Sheets for final review and manual lookup of remaining birth dates
+
+Analysis (in progress)
+
+* Zodiac sign distribution
+* Geographic breakdown by country
+* Activity timeline by year
+
+Tools
+* Python Pandas Google Sheets Claude AI GitHub Copilot Excel
+* 
+Data Source
+* Wikipedia
