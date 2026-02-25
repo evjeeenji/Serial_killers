@@ -14,7 +14,6 @@ Analysis (in progress)
 
 Tools
 * Python
-* Pandas
 * Google Sheets
 * Claude AI
    
