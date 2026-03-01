@@ -6,16 +6,16 @@
 * Birth date enrichment — initial automated parsing covered partial data; missing dates were researched and verified with Claude AI, then exported to Excel
 * Manual verification — imported into Google Sheets for final review and manual lookup of remaining birth dates
 
-Analysis (in progress)
+## Analysis (in progress)
 
 * Zodiac sign distribution
 * Geographic breakdown by country
 * Activity timeline by year
 
-Tools
+## Tools
 * Python
 * Google Sheets
 * Claude AI
    
-Data Source
+## Data Source
 * Wikipedia
