@@ -66,14 +66,13 @@ calculated from birth day and month using a custom Python function.
 ---
 
 ## Files
-├── serials_killers.ipynb   # Main Colab notebook
-├── combined.csv            # Merged dataset
-├── sk_with_births.xlsx     # Enriched dataset with birth dates
-└── diagrama.jpg            # Tableau dashboard screenshot
-
+serials_killers.ipynb — основний Colab ноутбук
+combined.csv — об'єднаний датасет з Kaggle
+sk_with_births.xlsx — збагачений датасет з датами народження
+diagrama.jpg — скріншот Tableau дашборду
 
 ---
 
 ## Data Source
 
-[Kaggle — Serial Killers Dataset](https://www.kaggle.com](https://www.kaggle.com/code/mohandamr/serial-killers/input)
+[Kaggle — Serial Killers Dataset](https://www.kaggle.com/code/mohandamr/serial-killers/input)
