@@ -66,10 +66,10 @@ calculated from birth day and month using a custom Python function.
 ---
 
 ## Files
-serials_killers.ipynb — основний Colab ноутбук
-combined.csv — об'єднаний датасет з Kaggle
-sk_with_births.xlsx — збагачений датасет з датами народження
-diagrama.jpg — скріншот Tableau дашборду
+serials_killers.ipynb — основний Colab ноутбук  
+combined.csv — об'єднаний датасет з Kaggle  
+sk_with_births.xlsx — збагачений датасет з датами народження  
+diagrama.jpg — скріншот Tableau дашборду  
 
 ---
 
