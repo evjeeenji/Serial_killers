@@ -92,10 +92,37 @@ This is a typical example of how:
 ---
 
 ## Files
-serials_killers.ipynb — основний Colab ноутбук  
-combined.csv — об'єднаний датасет з Kaggle  
-sk_with_births.xlsx — збагачений датасет з датами народження  
-diagrama.jpg — скріншот Tableau дашборду  
+
+
+- **Lessthan_5_victim_count.csv**  
+  Dataset containing killers with fewer than 5 victims.
+  
+- **5_to_14_victim_count.csv**  
+  Dataset containing killers with 5 to 14 victims.
+
+- **15_to_30_victim_count.csv**  
+  Dataset containing killers with 15 to 30 victims.
+
+- **Highest_victim_count.csv**  
+  Dataset of killers with the highest recorded victim counts.
+
+- **Serial_killers_data.xlsx**  
+  Combined and structured dataset used for analysis and feature engineering.
+
+- **serials_killers1.ipynb**  
+  Main notebook with data cleaning, preprocessing, and feature engineering.
+
+- **zodiac.ipynb**  
+  Notebook dedicated to zodiac analysis and statistical testing.
+
+- **diagrama.jpg**  
+  Tableau dashboard screenshot presenting key analytical insights, including distribution patterns, victim counts, and exploratory findings.
+
+- **blood.jpg**  
+  Visualization of zodiac distribution used in the analysis.
+
+- **README.md**  
+  Project documentation and overview.
 
 ---
 
