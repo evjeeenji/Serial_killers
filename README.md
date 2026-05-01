@@ -45,12 +45,38 @@ Includes:
 
 ---
 
-## Bonus: Zodiac Analysis
+## Bonus: Zodiac Analysis: Signal or Just Noise?
 
-*Just for fun* — distribution of serial killers by zodiac sign,  
-calculated from birth day and month using a custom Python function.
+![Zodiac Distribution](blood.jpg)
 
----
+One of the exploratory questions in this project was whether zodiac signs show any meaningful pattern in the dataset.
+
+At first glance, the distribution appears uneven — some signs seem slightly overrepresented, others underrepresented. However, visual patterns can be misleading, especially with relatively small samples.
+
+To validate this, three statistical approaches were applied:
+
+- **Chi-Square Test** — to check the overall distribution against a uniform expectation  
+- **Binomial Test** — to evaluate individual zodiac deviations  
+- **Bayesian Inference** — to estimate probability ranges for each sign  
+
+### What the data actually shows
+
+Across all three methods, the result is consistent:
+
+- The overall distribution does **not significantly differ from uniform**
+- Individual deviations fall within expected statistical variation
+- Apparent “peaks” are explained by randomness rather than a real effect
+
+### Insight
+
+Despite initial visual patterns, there is **no statistical evidence** supporting any relationship between zodiac signs and behavioral outcomes in this dataset.
+
+### Takeaway
+
+This is a typical example of how:
+- **patterns in data can emerge by chance**,  
+- and why **statistical validation is essential before drawing conclusions**.
+
 
 ## Tools & Stack
 
